@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "grainscape"]
-	path = grainscape
-	url = https://github.com/achubaty/grainscape
-	shallow = true
-	registered = true
